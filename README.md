@@ -1,21 +1,87 @@
-## I am Kavya Kasthuri Dodle
-Iam a Data Science Graduate from University of North Texas<br>
-I have over 4 years of experience on Data analysis and Data Engineering.<br>
-Do follow me on linkedin www.linkedin.com/in/dodlekavyakasthuri
 
+<h1 align="center">👋 Hi, I'm Kavya Dodle</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dodlekavyakasthuri) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Dodle) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dodlekavyakasthuri@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DodleK&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DodleK&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DodleK&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <em>Data Analyst • Data Engineer • Integration Specialist</em><br>
+  <em>Specializing in Power BI, SQL, Python, ETL, and Cloud Data Solutions</em>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DodleK&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- 
+## 💼 Professional Summary
+
+I’m a passionate and detail-oriented **data professional** with strong skills in **data analysis, ETL development, and cloud integration**. I love transforming messy datasets into structured insights that empower better decisions and automation.
+
+With a background in **data engineering and analytics**, I thrive at the intersection of data pipelines, business logic, and storytelling. My experience spans multiple tools and platforms, from **Informatica and SSIS** to **Power BI** and **Azure**.
+
+---
+
+## 🧰 Technical Skills
+
+### 📊 Data Analytics & BI
+- **Tools**: Power BI, Excel (Pivot Tables, Power Query), Tableau  
+- **Skills**: KPI tracking, report automation, visual storytelling
+
+### 🧪 Data Engineering & ETL Development
+- **Languages**: Python (Pandas, NumPy), SQL (T-SQL)  
+- **ETL Tools**: Informatica PowerCenter, SSIS, Azure Data Factory  
+- **Tasks**: Data ingestion, transformation, scheduling, pipeline optimization
+
+### ☁️ Cloud Platforms & Infrastructure
+- **Azure**: Data Factory, Blob Storage, SQL Database, Synapse  
+- **AWS**: S3, Lambda, EC2, RDS  
+- **Tools**: Git, Jupyter, REST APIs, VS Code, Visual Studio
+
+---
+
+## 📂 Projects & Achievements
+
+- ⚙️ Built end-to-end **ETL pipelines** using Informatica and SSIS for enterprise clients  
+- ☁️ Migrated data workflows from on-prem SQL Server to **Azure Data Factory** and **Blob Storage**  
+- 📈 Designed **interactive Power BI dashboards** for real-time executive monitoring  
+- 🧹 Automated **data cleaning frameworks** using Python scripts  
+- ⚡ Refactored SQL queries and stored procedures to boost performance and reduce load times
+
+---
+
+## 📝 Publications
+
+Sharing stories through code and data is one of my favorite things. Read my articles on Medium:
+
+- **[The Story of NumPy and Pandas: The Data Heroes in Python Village](https://medium.com/@dodle/the-story-of-numpy-and-pandas-the-data-heroes-in-python-village-7375b813319c)**  
+  A playful dive into the world of data structures and manipulation with Python.
+
+  
+- **[The Story of Matplotlib and Seaborn: The Data Artists of Python Village](https://medium.com/@dodle/the-story-of-matplotlib-and-seaborn-the-data-artists-of-python-village-db2f036b4483)**  
+  A visual tale of how Python's plotting libraries bring data to life.
+
+
+
+---
+
+## 📊 GitHub Stats
+
+![](https://nirzak-streak-stats.vercel.app/?user=DodleK&theme=merko&hide_border=false)<br/>
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [kavya.dodle@outlook.com](mailto:kavya.dodle@outlook.com)  
+- 💼 LinkedIn: [linkedin.com/in/dodlekavyakasthuri](https://linkedin.com/in/dodlekavyakasthuri)  
+- 📝 Medium: [@dodle](https://medium.com/@dodle)
+
+---
+
+## 🚀 Open to Opportunities
+
+I’m currently open to roles in:
+
+- **Data Engineering**
+- **Data Analysis**
+- **ETL Development & Data Integration**
+- **Cloud Data Solutions (Azure, AWS)**
+
+
+
+> Let’s turn data into stories, and stories into strategy.
