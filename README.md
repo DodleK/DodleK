@@ -55,14 +55,6 @@ Sharing stories through code and data is one of my favorite things. Read my arti
 - **[The Story of Matplotlib and Seaborn: The Data Artists of Python Village](https://medium.com/@dodle/the-story-of-matplotlib-and-seaborn-the-data-artists-of-python-village-db2f036b4483)**  
   A visual tale of how Python's plotting libraries bring data to life.
 
-
-
----
-
-## 📊 GitHub Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=DodleK&theme=merko&hide_border=false)<br/>
-
 ---
 
 ## 📫 Contact Me
